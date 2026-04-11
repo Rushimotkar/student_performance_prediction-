@@ -1,0 +1,12 @@
+[2026-04-11 03:30:21,389] 26 root - INFO - Data Ingestion method starts
+[2026-04-11 03:30:21,405] 29 root - INFO - Dataset read as pandas dataframe
+[2026-04-11 03:30:21,417] 32 root - INFO - Train test split initiated
+[2026-04-11 03:30:21,432] 36 root - INFO - Train test split completed
+[2026-04-11 03:30:21,433] 58 root - INFO - Reading train and test data
+[2026-04-11 03:30:21,442] 62 root - INFO - Obtaining preprocessor object
+[2026-04-11 03:30:21,442] 27 root - INFO - Data transformation initiated
+[2026-04-11 03:30:21,442] 42 root - INFO - numerical and categorical pipeline created
+[2026-04-11 03:30:21,446] 74 root - INFO - Applying preprocessor object on training and testing data
+[2026-04-11 03:30:21,485] 81 root - INFO - Saved preprocessor object
+[2026-04-11 03:30:21,491] 31 root - INFO - Splitting training and test input data
+[2026-04-11 03:30:26,549] 61 root - INFO - Best found model on both training and testing dataset is Linear Regression with score 0.8804332983749565

@@ -1,0 +1,11 @@
+[2026-04-11 02:58:38,598] 26 root - INFO - Data Ingestion method starts
+[2026-04-11 02:58:38,610] 29 root - INFO - Dataset read as pandas dataframe
+[2026-04-11 02:58:38,620] 32 root - INFO - Train test split initiated
+[2026-04-11 02:58:38,632] 36 root - INFO - Train test split completed
+[2026-04-11 02:58:38,633] 58 root - INFO - Reading train and test data
+[2026-04-11 02:58:38,640] 62 root - INFO - Obtaining preprocessor object
+[2026-04-11 02:58:38,640] 27 root - INFO - Data transformation initiated
+[2026-04-11 02:58:38,640] 42 root - INFO - numerical and categorical pipeline created
+[2026-04-11 02:58:38,643] 74 root - INFO - Applying preprocessor object on training and testing data
+[2026-04-11 02:58:38,671] 81 root - INFO - Saved preprocessor object
+[2026-04-11 02:58:38,676] 31 root - INFO - Splitting training and test input data

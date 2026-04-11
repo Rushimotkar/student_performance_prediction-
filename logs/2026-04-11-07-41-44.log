@@ -1,0 +1,7 @@
+[2026-04-11 07:41:44,777] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-04-11 07:41:44,780] 97 werkzeug - INFO -  * Debugger PIN: 502-368-124
+[2026-04-11 07:45:26,297] 97 werkzeug - INFO - 127.0.0.1 - - [11/Apr/2026 07:45:26] "GET / HTTP/1.1" 200 -
+[2026-04-11 07:45:27,595] 97 werkzeug - INFO - 127.0.0.1 - - [11/Apr/2026 07:45:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2026-04-11 07:45:44,008] 97 werkzeug - INFO - 127.0.0.1 - - [11/Apr/2026 07:45:44] "GET /predictdata HTTP/1.1" 200 -
+[2026-04-11 07:47:05,994] 97 werkzeug - INFO - 127.0.0.1 - - [11/Apr/2026 07:47:05] "GET /predictdata HTTP/1.1" 200 -
+[2026-04-11 08:02:19,434] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\testuser\\Desktop\\ml\\application.py', reloading
